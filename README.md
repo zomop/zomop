@@ -24,4 +24,4 @@ Hey! I'm Andra 👋<br><br>💻 Developer who enjoys building random stuff with 
 ---
 [![](https://komarev.com/ghpvc/?username=zomop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ->
