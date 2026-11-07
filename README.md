@@ -16,6 +16,6 @@ I'm Alyandra, an aspiring software developer and technology enthusiast with a st
 ![](https://github-profile-trophy.vercel.app/?username=zomop&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=zomop&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=zomop&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
