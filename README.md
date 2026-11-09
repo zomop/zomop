@@ -2,7 +2,7 @@
 I'm Alyandra, an aspiring software developer and technology enthusiast with a strong interest in software engineering, cybersecurity, and aerospace technology.<br><br>My work focuses on exploring software development, building technical projects, and understanding complex engineering systems. I'm particularly interested in flight software engineering, aircraft design, and the intersection of software and aerospace innovation.<br><br>I continuously develop my technical knowledge through independent learning, experimentation, and hands-on projects. My long-term goal is to contribute to meaningful technological advancements through engineering, research, and innovation.
 
 ## 🐈 My Cat:
-A little companion outside the world of code.
+I love my cat so much  :3
 
 <div align="center">
   <img src="IMG-20251228-WA0018.jpg" width="300" alt="My Cat">
